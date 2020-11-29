@@ -7,7 +7,7 @@ I am originally a physicist who lives in VietNam. However, I get hooked by Data 
 - 🌱 I’m currently learning Java and mySQL.
 - 👯 I’m looking to collaborate on pet project based on Java.
 - 💬 Ask me about physics and algorithm.
-- 📫 How to reach me on <a href="https://www.linkedin.com/in/grey-lam-4107461a2/">LinkedIn</a> or <a href="https://www.facebook.com/thong.lam.37625/">Facebook</a>
+- 📫 Reach me on <a href="https://www.linkedin.com/in/grey-lam-4107461a2/">LinkedIn</a> or <a href="https://www.facebook.com/thong.lam.37625/">Facebook</a>
 - 😄 Pronouns: he/him
 
 ⭐️ From [HoaxHoax-oops](https://github.com/HoaxHoax-oops).
