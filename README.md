@@ -2,7 +2,7 @@
 <p>
   <h1 align="center"><b>Hello there, I'm Grey 👋</b></h1>.
 </p>
-I am originally a physicist who lives in VietNam. However, I get hooked by Data and Back-end program which really push my intelligence into limitation. That's why I decided to change my major to become a Software Engineer in the future.
+I am originally a physicist who lives in VietNam. However, I get hooked by Data and Back-end program which really push my intelligence into limitation. That's why I decided to change my major to become a Data Engineer in the future.
 
 - 🔭 I’m currently working as a PCB designer.
 - 🌱 I’m currently learning Java and SQL.
